@@ -1,0 +1,25 @@
+{
+    "name": "the-framer-book-example-animations-18-page-effects",
+    "version": "1.5.0",
+    "description": "One of the Framer example animations on https://framerbook.com/animation/example-animations/",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+        "framer": "^2.0.0",
+        "framer-motion": "^11.0.0",
+        "popmotion": "^11.0.0",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-scripts": "5.0.1"
+    },
+    "devDependencies": {
+        "typescript": "3.8.3"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
